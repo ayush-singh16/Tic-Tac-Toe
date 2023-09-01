@@ -1,1 +1,3 @@
 # Tic-Tac-Toe
+# "Welcome to my submission for the Tic Tac Toe Kaggle competition! In this notebook, I explore a novel approach to predict game outcomes by applying k-means clustering to player strategies. By transforming game states into numerical features and identifying player patterns through clustering, I've developed a predictive model that can forecast game results. This innovative strategy provides valuable insights into the classic game of Tic Tac Toe, offering a unique perspective for both players and enthusiasts interested in improving their gameplay. Dive into my notebook to uncover the power of data-driven predictions in this timeless game."
+# Dataset -> https://www.kaggle.com/competitions/pesumcadatathon23
